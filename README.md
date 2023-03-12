@@ -19,6 +19,8 @@
 
 
 # Demo Video
-https://user-images.githubusercontent.com/90775550/224552209-43e02dfc-18a0-4fcf-9007-8120b9a13273.mp4
+担任飞手操控寻线
+<video src="https://user-images.githubusercontent.com/90775550/224552209-43e02dfc-18a0-4fcf-9007-8120b9a13273.mp4" controls="controls" width="500" height="500"></video>
+
 
 
